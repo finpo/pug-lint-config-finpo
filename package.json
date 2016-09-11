@@ -1,0 +1,26 @@
+{
+  "name": "pug-lint-config-pustur",
+  "version": "1.0.0",
+  "description": "My personal linting rules for the pug language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "pug",
+    "lint",
+    "config",
+    "puglint",
+    "puglintconfig",
+    "pustur"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pustur/pug-lint-config-pustur.git"
+  },
+  "author": "Loris Bettazza <loris.bettazza@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pug-lint": "^2.3.0"
+  }
+}
