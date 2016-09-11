@@ -6,7 +6,7 @@
 
 ## Installation
 ```bash
-$ npm install pug-lint-config-pustur
+$ npm install --save-dev pug-lint pug-lint-config-pustur
 ```
 
 ## Usage
