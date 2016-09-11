@@ -1,6 +1,6 @@
 {
   "name": "pug-lint-config-pustur",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal linting rules for the pug language.",
   "main": "index.js",
   "scripts": {
