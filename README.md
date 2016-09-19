@@ -14,7 +14,7 @@ Create a `.pug-lintrc` file in your project root:
 
 ```js
 {
-  'extends': 'pustur'
+  "extends": "pustur"
 }
 ```
 
