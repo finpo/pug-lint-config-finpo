@@ -1,7 +1,7 @@
 {
-  "name": "pug-lint-config-pustur",
-  "version": "1.0.4",
-  "description": "My personal linting rules for the pug language.",
+  "name": "@finpo/pug-lint-config-finpo",
+  "version": "1.0.0",
+  "description": "FINPO linting rules for the pug language.",
   "main": "index.js",
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
@@ -11,16 +11,15 @@
     "lint",
     "config",
     "puglint",
-    "puglintconfig",
-    "pustur"
+    "puglintconfig"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pustur/pug-lint-config-pustur.git"
+    "url": "https://github.com/finpo/pug-lint-config-finpo.git"
   },
-  "author": "Loris Bettazza <loris.bettazza@gmail.com>",
+  "author": "Ausir <ausir@finpo.com.tw>",
   "license": "MIT",
   "dependencies": {
-    "pug-lint": "^2.3.0"
+    "pug-lint": "^2.4.0"
   }
 }
