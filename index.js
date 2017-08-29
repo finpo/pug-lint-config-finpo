@@ -14,7 +14,7 @@ module.exports = {
   requireLowerCaseAttributes: true,
   requireLowerCaseTags: true,
   requireSpecificAttributes: [
-    { img: [ 'alt' ] },
+    // { img: [ 'alt' ] },
   ],
   requireStrictEqualityOperators: true,
   validateAttributeQuoteMarks: '"',
