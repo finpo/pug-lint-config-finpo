@@ -1,6 +1,6 @@
 {
   "name": "@finpo/pug-lint-config-finpo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "FINPO linting rules for the pug language.",
   "main": "index.js",
   "scripts": {

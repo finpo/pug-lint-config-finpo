@@ -14,7 +14,7 @@ Create a `.pug-lintrc` file in your project root:
 
 ```js
 {
-  "extends": "finpo"
+  "extends": "./node_modules/@finpo/pug-lint-config-finpo/index.js"
 }
 ```
 
